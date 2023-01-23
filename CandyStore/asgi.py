@@ -1,5 +1,5 @@
 """
-ASGI config for Hello project.
+ASGI config for CandyStore project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

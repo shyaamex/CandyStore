@@ -1,5 +1,5 @@
 """
-WSGI config for Hello project.
+WSGI config for CandyStore project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
