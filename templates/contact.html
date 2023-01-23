@@ -3,31 +3,42 @@
 {% block title %}Contact{% endblock title %}
 
 {% block body %}
+<style>
+    body {
+      background-image: url('/static/8.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      opacity: 0.5;
+    }
+</style>
+
 <div class="container-fluid px-0 mb-3" >
-    <img src="https://source.unsplash.com/1200x400/?phone,contact" class="d-block w-100 mx-0" alt="...">
+    <!-- <img src="" class="d-block w-100 mx-0" alt="...">-->
 </div>
 <div class="container mb-3 py-4">
-    <h1 class="text-center">Contact Us</h1>
+    <h1 style="color:White;" class="text-center">Contact Us</h1>
     <form method="post" action="/contact">
+        <br><br><br>
     {% csrf_token %}
         <div class="form-group">
-            <label for="name">Name</label>
-            <input type="text" class="form-control" id="name" name="name" placeholder="Enter your Name">
+            <label style="color:White;" for="name">Name</label>
+            <input size="10" type="text" class="form-control" id="name" name="name" placeholder="Enter your Name">
         </div>
 
         <div class="form-group">
-            <label for="email">Email address</label>
-            <input type="email" class="form-control" id="email" name="email" placeholder="Enter Your Email">
+            <label  style="color:White;" for="email">Email address</label>
+            <input size="50" type="email" class="form-control" id="email" name="email" placeholder="Enter Your Email">
         </div>
         
         <div class="form-group">
-            <label for="phone">Phone Number</label>
-            <input type="phone" class="form-control" id="phone" name="phone" placeholder="Enter Your Phone Number">
+            <label style="color:White;" for="phone">Phone Number</label>
+            <input size="50" type="phone" class="form-control" id="phone" name="phone" placeholder="Enter Your Phone Number">
         </div>      
         
         <div class="form-group">
-            <label for="desc">Tell me about what you want to contact me for...</label>
-            <textarea class="form-control" id="desc" rows="3" name="desc"></textarea>
+            <label style="color:White;" for="desc">Tell me about what you want to contact me for...</label>
+            <textarea size="50" class="form-control" id="desc" rows="3" name="desc"></textarea>
         </div>
         <button class="btn btn-primary" type="submit">Submit</button>
     </form>
