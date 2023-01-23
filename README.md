@@ -13,7 +13,7 @@ It serves the purpose of Online presence and Customer interaction for <b> Shyam'
     
 3. If you are not familiar with <b> Git CLI </b> you can download the <b> Zip file </b> as well
 4. Open the CandyStore folder from cloned-repository/Zip-file using <b> VS Code </b>
-5. Now, Open terminal of VS Code 
+5. Now, Open terminal of VS Code terminal inside CandyStore folder (which we opened above)
 6. Run the following command in this VS Code terminal to activate the Virtual environment for Django: 
     ```
 	  venv/scripts/activate
