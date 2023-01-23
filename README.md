@@ -1,6 +1,9 @@
-# Shyam's CandyStore <img src="https://images.unsplash.com/photo-1575224300306-1b8da36134ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80" height=80 width=80 align="right" >
-This is a Django Based web application for a fictional <b> Shyam's Candy Store </b>. It is built using Django Framework in Python and HTML. 
-It serves the purpose of Online presence and Customer interaction for <b> Shyam's Candy Store </b> . 
+# Shyam's CandyStore <img src="https://images.pexels.com/photos/557665/pexels-photo-557665.jpeg?auto=compress&cs=tinysrgb&w=600" height=200 width=400 align="right" >
+This is a Django Based web application for a fictional <b> Shyam's Candy Store</b>. It is built using Django Framework in Python and HTML. 
+It serves the purpose of Online presence and Customer interaction for <b> Shyam's Candy Store </b>. 
+
+
+
 # How does it work
 1. You need python 3.10 installed in your System as prerequisite.
 2. Clone this repository in your local system using following command: <br>
