@@ -36,3 +36,15 @@ It serves the purpose of Online presence and Customer interaction for <b> Shyam'
      
 8. Open the link to lcoal host
 9. Enjoy and explore the CandyStore Web app
+
+
+# Web App Visuals
+
+<video width="320" height="240" controls>
+	<source src="https://user-images.githubusercontent.com/115785301/214208116-3e0a17dd-0e3b-4050-9a03-6f1d1f3722a8.mp4" type="video/mp4">
+</video>
+
+
+
+
+
