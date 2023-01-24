@@ -7,7 +7,7 @@ It serves the purpose of Online presence and Customer interaction for <b> Shyam'
 * Django
 
 
-# How does it work
+# How does it work (in 10 simple steps)
 
 1. Clone this repository in your local system using following command: 
     ```
