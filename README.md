@@ -38,20 +38,3 @@ It serves the purpose of Online presence and Customer interaction for <b> Shyam'
 9. Enjoy and explore the CandyStore Web app
 
 
-# Web App Visuals
-
-
-## Home Page
-
-
-
-## Contact Us 
-![image](https://user-images.githubusercontent.com/115785301/214211295-a7ba40df-7ef7-4dd6-b343-d011df65ecc7.png)
-
-
-
-![VID_20230124_091757](https://user-images.githubusercontent.com/115785301/214212191-8a7c529d-97e2-4ea3-88a6-1867e4e159ff.gif)
-
-
-
-
