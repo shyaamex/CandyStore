@@ -31,7 +31,7 @@ It serves the purpose of Online presence and Customer interaction for <b> Shyam'
 	```
 9. Now,Run the following command in VS Code terminal to run the web app:
      ```
-    python/manage.py/runserver
+    python manage.py runserver
      ```
      
 8. Open the link to lcoal host
