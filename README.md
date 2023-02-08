@@ -4,7 +4,7 @@ It serves the purpose of Online presence and Customer interaction for <b> Shyam'
 
 # Prerequisite
 * Python 3.10
-* Django
+* Django 4.1
 
 
 # How does it work (in 10 simple steps)
